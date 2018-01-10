@@ -1,0 +1,2 @@
+# rails_prefectures
+seed_fuで利用できる都道府県データのリスト
